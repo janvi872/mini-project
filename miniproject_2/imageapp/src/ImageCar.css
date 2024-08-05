@@ -1,0 +1,19 @@
+.carousel_wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.image-container {
+    transition-timing-function: ease-out;
+}
+.main-container {
+    display: flex;
+}
+
+button{
+   justify-content: center;
+   align-content: center;
+   margin:0px 150px;
+}
